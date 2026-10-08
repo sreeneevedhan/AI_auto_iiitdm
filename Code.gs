@@ -5,7 +5,7 @@
  * Setup: Project Settings → Script Properties → add GEMINI_API_KEY
  */
 
-const MODEL = 'gemini-2.5-flash'; // If AI Studio lists a newer Flash model, put its exact name here.
+const MODEL = 'gemini-3.5-flash-lite'; // If AI Studio lists a newer Flash model, put its exact name here.
 
 const TYPES = ['SCALE', 'NPS', 'MULTIPLE_CHOICE', 'CHECKBOX', 'SHORT_TEXT', 'PARAGRAPH', 'GRID'];
 
